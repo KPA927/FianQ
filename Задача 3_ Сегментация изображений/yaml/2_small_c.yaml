@@ -1,0 +1,13 @@
+problems:
+- id: 2_small_c10_10_0.5
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 2_small_c10_10_0.5.pkl
+- id: 2_small_c10_10_1.0
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 2_small_c10_10_1.0.pkl

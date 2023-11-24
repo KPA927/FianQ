@@ -1,0 +1,13 @@
+problems:
+- id: '37_5_0.3'
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 37_5_0.3.pkl
+- id: '37_5_0.6'
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 37_5_0.6.pkl

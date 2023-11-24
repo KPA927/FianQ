@@ -1,0 +1,7 @@
+problems:
+- id: '18_6_0.4'
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 18_6_0.4.pkl

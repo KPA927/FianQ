@@ -1,0 +1,25 @@
+problems:
+- id: 1_small5
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 1_small5.pkl
+- id: 1_small6
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 1_small6.pkl
+- id: 1_small7
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 1_small7.pkl
+- id: 1_small8
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 1_small8.pkl

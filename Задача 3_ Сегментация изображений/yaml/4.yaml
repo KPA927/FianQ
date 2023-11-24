@@ -1,0 +1,13 @@
+problems:
+- id: '415_2_0.2'
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 415_2_0.2.pkl
+- id: '415_2_0.4'
+  type: QUBO
+  data_dir: ~/task_3/pkl
+  objective:
+    to: MIN
+    filenames: 415_2_0.4.pkl
