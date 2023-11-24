@@ -1,0 +1,7 @@
+problems:
+- id: Schedule
+  type: QUBO
+  data_dir: ~/task_1/pkl
+  objective:
+    to: MIN
+    filenames: schedule_QUBO.pkl
